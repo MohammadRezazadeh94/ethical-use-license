@@ -1,0 +1,23 @@
+Ethical Use License (EUL) Version 1.0
+(DRAFT)
+1. Grant of Permission
+You are free to use, modify, and distribute this work under the following conditions:
+2. Ethical Use Requirement
+This work may only be used by individuals, organizations, and entities acting in good faith to promote the welfare of humanity, the planet, and the universe.
+Prohibited uses include, but are not limited to:
+* Development of weapons or tools of violence.
+* Activities that harm the environment.
+* Violations of privacy or human rights.
+* Any actions or activities that cause harm or exploit others.
+3. Prohibited Actors
+This license explicitly prohibits use by:
+* Organizations or individuals engaged in human rights abuses.
+* Groups promoting discrimination, hate speech, or other unethical practices.
+* Entities involved in activities contrary to public welfare or environmental sustainability.
+4. Redistribution
+Redistribution must include this license and all its terms.
+5. Disclaimer of Liability
+The authors provide this work “as is,” with no warranties, and accept no liability for its use or misuse.
+6. Termination
+This license is automatically terminated if this work is used for any prohibited purposes or by any prohibited actors.
+
